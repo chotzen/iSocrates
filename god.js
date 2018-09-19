@@ -8,7 +8,7 @@ function Stage(ID, question, yesID, noID) {
   stages[ID] = this;
 }
 
-new Stage(1, "Does God Exist?", 10, 10)
+new Stage(1, "Does God Exist?", 50, 10)
 
 // Ontological Argument
 new Stage(10, "Is a conceived idea better than a real one?", 13, 11);
