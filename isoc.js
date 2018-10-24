@@ -45,7 +45,7 @@ var qs = {
   hume_1:
     {
       q: "Let's explore some of our sensory shortcomings a little closer. Can we know if events have a causes and effects?",
-      a: [{a: "Sure!", t: 'hume_1'}, {a: "I don't believe that!.", t: 'hume_2'}]
+      a: [{a: "Sure!", t: 'hume_1'}]
     },
   hume_2:
     {
